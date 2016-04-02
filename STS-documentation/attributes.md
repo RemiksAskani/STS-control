@@ -1,6 +1,6 @@
 ### Character attributes (same for all templates)s
 
--Attributes have a minimum value of 1 (unless strictly specified by another trait or template)_.
+_Attributes have a minimum value of 1 (unless strictly specified by another trait or template)_.
 
 1. Physical attributes:
   * Strength
