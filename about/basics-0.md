@@ -1,6 +1,6 @@
 # Interaction diagram
 
-[[https://github.com/RemiksAskani/STS-control/blob/master/assets/diagram-0.png | alt=diagram-0]]
+![alt diagram-0](https://github.com/RemiksAskani/STS-control/blob/master/assets/diagram-0.png)
 
 ===
 
