@@ -30,3 +30,18 @@ _These are basic skills for all templates. New or different skills can be added 
   * Streetwise
   * Subterfuge
 
+==
+
+## Tables design
+
+_skillClass_
+
+**skill_class_id** | skill_class_name
+------------------ | ----------------
+char(32)           | text
+
+_skill_
+
+**skill_id** | skill_name | *skill_class*
+------------ | ---------- | -------------
+char(32)     | text       | char(32)    
